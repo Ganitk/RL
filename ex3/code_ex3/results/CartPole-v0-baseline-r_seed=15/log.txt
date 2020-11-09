@@ -1,0 +1,690 @@
+2020-04-12 16:32:52,681:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-12 16:32:52,681:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-12 16:32:52,697:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-12 16:32:52,697:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-12 16:37:15,726:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-12 16:37:15,730:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-12 16:37:15,734:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-12 16:37:15,738:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-12 16:58:46,015:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-12 16:58:46,019:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-12 16:58:46,031:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-12 16:58:46,039:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-12 17:06:26,255:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-12 17:06:26,267:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-12 17:06:26,271:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-12 17:06:26,279:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-12 17:27:31,835:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-12 17:27:31,844:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-12 17:27:31,859:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-12 17:27:31,873:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:11:48,189:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:11:48,197:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:11:48,201:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:11:48,201:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:14:21,854:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:14:21,869:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:14:21,869:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:14:21,885:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:16:51,643:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:16:51,658:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:16:51,658:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:16:51,658:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:16:55,512:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:19:34,364:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:19:34,364:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:19:34,364:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:19:34,380:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:19:37,896:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:20:57,002:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:20:57,002:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:20:57,002:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:20:57,017:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:20:58,838:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:22:33,955:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:22:33,970:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:22:33,970:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:22:33,986:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:22:37,470:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:23:57,593:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:23:57,593:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:23:57,609:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:23:57,609:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:24:00,576:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:24:57,273:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:24:57,289:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:24:57,289:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:24:57,289:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:25:00,781:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:26:28,834:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:26:28,834:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:26:28,850:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:26:28,850:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:26:31,880:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:28:01,964:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 10:28:01,980:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 10:28:01,995:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 10:28:01,995:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 10:28:05,265:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 10:28:07,195:INFO: Average reward: 17.02 +/- 0.93
+2020-04-13 10:28:08,842:INFO: Average reward: 24.95 +/- 2.11
+2020-04-13 10:28:09,420:INFO: Average reward: 22.34 +/- 1.63
+2020-04-13 10:28:10,014:INFO: Average reward: 22.61 +/- 1.77
+2020-04-13 10:28:10,648:INFO: Average reward: 25.87 +/- 2.20
+2020-04-13 10:28:11,273:INFO: Average reward: 24.38 +/- 1.82
+2020-04-13 10:28:11,960:INFO: Average reward: 26.13 +/- 2.17
+2020-04-13 10:28:13,467:INFO: Average reward: 26.29 +/- 2.44
+2020-04-13 10:28:15,461:INFO: Average reward: 37.12 +/- 4.82
+2020-04-13 10:28:16,845:INFO: Average reward: 28.26 +/- 2.43
+2020-04-13 10:28:17,872:INFO: Average reward: 30.88 +/- 3.39
+2020-04-13 10:28:18,787:INFO: Average reward: 23.60 +/- 1.69
+2020-04-13 10:28:19,584:INFO: Average reward: 26.03 +/- 2.23
+2020-04-13 10:28:20,210:INFO: Average reward: 29.00 +/- 3.21
+2020-04-13 10:28:20,856:INFO: Average reward: 31.12 +/- 3.30
+2020-04-13 10:28:21,512:INFO: Average reward: 27.58 +/- 2.65
+2020-04-13 10:28:22,105:INFO: Average reward: 27.42 +/- 3.23
+2020-04-13 10:28:23,310:INFO: Average reward: 35.11 +/- 3.90
+2020-04-13 10:28:24,544:INFO: Average reward: 34.07 +/- 2.77
+2020-04-13 10:28:25,856:INFO: Average reward: 30.90 +/- 2.78
+2020-04-13 10:28:27,163:INFO: Average reward: 26.21 +/- 2.79
+2020-04-13 10:28:28,617:INFO: Average reward: 28.56 +/- 3.55
+2020-04-13 10:28:29,992:INFO: Average reward: 32.13 +/- 3.95
+2020-04-13 10:28:31,238:INFO: Average reward: 28.43 +/- 2.36
+2020-04-13 10:28:33,329:INFO: Average reward: 35.54 +/- 3.56
+2020-04-13 10:28:34,714:INFO: Average reward: 37.80 +/- 5.11
+2020-04-13 10:28:35,823:INFO: Average reward: 34.41 +/- 4.25
+2020-04-13 10:28:36,958:INFO: Average reward: 34.14 +/- 4.61
+2020-04-13 10:28:38,217:INFO: Average reward: 33.76 +/- 3.63
+2020-04-13 10:28:39,540:INFO: Average reward: 45.29 +/- 5.21
+2020-04-13 10:28:40,769:INFO: Average reward: 32.00 +/- 3.19
+2020-04-13 10:28:42,019:INFO: Average reward: 31.63 +/- 3.98
+2020-04-13 10:28:43,207:INFO: Average reward: 34.10 +/- 4.87
+2020-04-13 10:28:44,352:INFO: Average reward: 35.07 +/- 4.08
+2020-04-13 10:28:45,456:INFO: Average reward: 36.56 +/- 4.63
+2020-04-13 10:28:46,575:INFO: Average reward: 36.37 +/- 6.55
+2020-04-13 10:28:47,823:INFO: Average reward: 47.10 +/- 6.21
+2020-04-13 10:28:49,052:INFO: Average reward: 39.04 +/- 5.60
+2020-04-13 10:28:50,240:INFO: Average reward: 36.85 +/- 5.85
+2020-04-13 10:28:51,437:INFO: Average reward: 43.43 +/- 6.79
+2020-04-13 10:28:52,684:INFO: Average reward: 46.95 +/- 4.78
+2020-04-13 10:28:53,840:INFO: Average reward: 37.73 +/- 5.08
+2020-04-13 10:28:55,100:INFO: Average reward: 36.44 +/- 5.03
+2020-04-13 10:28:56,288:INFO: Average reward: 34.45 +/- 4.46
+2020-04-13 10:28:57,545:INFO: Average reward: 44.36 +/- 6.62
+2020-04-13 10:28:58,773:INFO: Average reward: 43.43 +/- 5.91
+2020-04-13 10:28:59,954:INFO: Average reward: 41.65 +/- 6.23
+2020-04-13 10:29:01,182:INFO: Average reward: 48.65 +/- 8.13
+2020-04-13 10:29:02,437:INFO: Average reward: 52.00 +/- 8.51
+2020-04-13 10:29:03,659:INFO: Average reward: 46.05 +/- 8.14
+2020-04-13 10:29:04,862:INFO: Average reward: 50.16 +/- 7.88
+2020-04-13 10:29:06,065:INFO: Average reward: 38.00 +/- 5.34
+2020-04-13 10:29:07,356:INFO: Average reward: 38.35 +/- 5.01
+2020-04-13 10:29:08,662:INFO: Average reward: 42.91 +/- 6.44
+2020-04-13 10:29:10,091:INFO: Average reward: 52.47 +/- 7.61
+2020-04-13 10:29:11,227:INFO: Average reward: 39.52 +/- 5.63
+2020-04-13 10:29:12,630:INFO: Average reward: 55.76 +/- 6.36
+2020-04-13 10:29:13,896:INFO: Average reward: 51.16 +/- 7.72
+2020-04-13 10:29:15,062:INFO: Average reward: 64.40 +/- 10.47
+2020-04-13 10:29:16,358:INFO: Average reward: 55.22 +/- 9.00
+2020-04-13 10:29:17,625:INFO: Average reward: 33.21 +/- 4.88
+2020-04-13 10:29:18,791:INFO: Average reward: 41.91 +/- 6.49
+2020-04-13 10:29:19,916:INFO: Average reward: 44.95 +/- 4.94
+2020-04-13 10:29:21,083:INFO: Average reward: 47.38 +/- 5.71
+2020-04-13 10:29:22,254:INFO: Average reward: 38.60 +/- 4.70
+2020-04-13 10:29:23,481:INFO: Average reward: 46.75 +/- 7.40
+2020-04-13 10:29:24,715:INFO: Average reward: 49.45 +/- 9.74
+2020-04-13 10:29:25,933:INFO: Average reward: 31.65 +/- 3.90
+2020-04-13 10:29:27,226:INFO: Average reward: 34.79 +/- 3.93
+2020-04-13 10:29:28,454:INFO: Average reward: 47.30 +/- 6.35
+2020-04-13 10:29:29,620:INFO: Average reward: 50.68 +/- 6.93
+2020-04-13 10:29:30,833:INFO: Average reward: 41.29 +/- 6.25
+2020-04-13 10:29:32,067:INFO: Average reward: 47.75 +/- 7.94
+2020-04-13 10:29:33,295:INFO: Average reward: 33.52 +/- 4.99
+2020-04-13 10:29:34,550:INFO: Average reward: 41.62 +/- 6.02
+2020-04-13 10:29:35,664:INFO: Average reward: 41.59 +/- 7.12
+2020-04-13 10:29:36,957:INFO: Average reward: 45.18 +/- 7.03
+2020-04-13 10:29:38,215:INFO: Average reward: 46.90 +/- 5.68
+2020-04-13 10:29:39,506:INFO: Average reward: 43.43 +/- 6.75
+2020-04-13 10:29:40,751:INFO: Average reward: 38.62 +/- 4.97
+2020-04-13 10:29:41,926:INFO: Average reward: 30.34 +/- 3.70
+2020-04-13 10:29:43,245:INFO: Average reward: 51.00 +/- 6.61
+2020-04-13 10:29:44,425:INFO: Average reward: 33.14 +/- 6.21
+2020-04-13 10:29:45,612:INFO: Average reward: 41.35 +/- 5.27
+2020-04-13 10:29:46,840:INFO: Average reward: 49.40 +/- 7.80
+2020-04-13 10:29:48,086:INFO: Average reward: 33.17 +/- 4.58
+2020-04-13 10:29:49,268:INFO: Average reward: 52.11 +/- 9.47
+2020-04-13 10:29:50,486:INFO: Average reward: 62.00 +/- 10.38
+2020-04-13 10:29:51,683:INFO: Average reward: 46.90 +/- 4.64
+2020-04-13 10:29:52,977:INFO: Average reward: 65.67 +/- 8.71
+2020-04-13 10:29:54,118:INFO: Average reward: 49.89 +/- 6.84
+2020-04-13 10:29:55,220:INFO: Average reward: 39.62 +/- 5.10
+2020-04-13 10:29:56,330:INFO: Average reward: 35.63 +/- 4.76
+2020-04-13 10:29:57,449:INFO: Average reward: 36.27 +/- 3.82
+2020-04-13 10:29:58,597:INFO: Average reward: 47.15 +/- 5.42
+2020-04-13 10:29:59,700:INFO: Average reward: 43.91 +/- 5.21
+2020-04-13 10:30:00,960:INFO: Average reward: 39.88 +/- 6.66
+2020-04-13 10:30:02,304:INFO: Average reward: 54.06 +/- 6.17
+2020-04-13 10:30:03,474:INFO: Average reward: 34.14 +/- 3.92
+2020-04-13 10:30:04,568:INFO: Average reward: 53.12 +/- 10.31
+2020-04-13 10:30:04,568:INFO: - Training done.
+2020-04-13 10:30:09,261:INFO: Average reward: 14.00 +/- 0.00
+2020-04-13 11:26:31,852:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-04-13 11:26:31,867:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-04-13 11:26:31,867:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-04-13 11:26:31,867:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-04-13 11:26:33,862:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 11:26:35,507:INFO: Average reward: 17.02 +/- 0.93
+2020-04-13 11:26:36,074:INFO: Average reward: 24.95 +/- 2.11
+2020-04-13 11:26:36,730:INFO: Average reward: 22.34 +/- 1.63
+2020-04-13 11:26:37,538:INFO: Average reward: 22.61 +/- 1.77
+2020-04-13 11:26:38,195:INFO: Average reward: 25.87 +/- 2.20
+2020-04-13 11:26:39,002:INFO: Average reward: 24.38 +/- 1.82
+2020-04-13 11:26:39,518:INFO: Average reward: 26.13 +/- 2.17
+2020-04-13 11:26:40,114:INFO: Average reward: 26.29 +/- 2.44
+2020-04-13 11:26:40,867:INFO: Average reward: 37.12 +/- 4.82
+2020-04-13 11:26:43,618:INFO: Average reward: 28.26 +/- 2.43
+2020-04-13 11:26:46,265:INFO: Average reward: 30.88 +/- 3.39
+2020-04-13 11:26:47,925:INFO: Average reward: 23.60 +/- 1.69
+2020-04-13 11:26:48,736:INFO: Average reward: 26.03 +/- 2.23
+2020-04-13 11:26:49,384:INFO: Average reward: 29.00 +/- 3.21
+2020-04-13 11:26:50,259:INFO: Average reward: 31.12 +/- 3.30
+2020-04-13 11:26:51,025:INFO: Average reward: 27.47 +/- 2.34
+2020-04-13 11:26:51,895:INFO: Average reward: 27.53 +/- 3.23
+2020-04-13 11:26:52,489:INFO: Average reward: 35.11 +/- 3.66
+2020-04-13 11:26:53,174:INFO: Average reward: 34.07 +/- 2.77
+2020-04-13 11:26:54,478:INFO: Average reward: 28.26 +/- 3.01
+2020-04-13 11:26:57,250:INFO: Average reward: 28.37 +/- 2.99
+2020-04-13 11:26:58,204:INFO: Average reward: 29.30 +/- 3.90
+2020-04-13 11:26:59,407:INFO: Average reward: 33.07 +/- 4.74
+2020-04-13 11:27:00,880:INFO: Average reward: 27.72 +/- 2.74
+2020-04-13 11:27:02,178:INFO: Average reward: 33.39 +/- 4.13
+2020-04-13 11:27:03,306:INFO: Average reward: 37.20 +/- 5.49
+2020-04-13 11:27:04,367:INFO: Average reward: 35.93 +/- 5.76
+2020-04-13 11:27:04,987:INFO: Average reward: 35.18 +/- 5.73
+2020-04-13 11:27:05,573:INFO: Average reward: 33.52 +/- 4.04
+2020-04-13 11:27:06,258:INFO: Average reward: 45.05 +/- 6.55
+2020-04-13 11:27:06,977:INFO: Average reward: 32.19 +/- 3.13
+2020-04-13 11:27:07,581:INFO: Average reward: 36.37 +/- 5.53
+2020-04-13 11:27:08,389:INFO: Average reward: 41.62 +/- 5.22
+2020-04-13 11:27:08,969:INFO: Average reward: 30.69 +/- 4.06
+2020-04-13 11:27:09,657:INFO: Average reward: 34.68 +/- 4.09
+2020-04-13 11:27:11,401:INFO: Average reward: 32.90 +/- 4.14
+2020-04-13 11:27:12,823:INFO: Average reward: 51.84 +/- 6.95
+2020-04-13 11:27:14,538:INFO: Average reward: 44.23 +/- 6.91
+2020-04-13 11:27:16,138:INFO: Average reward: 38.46 +/- 4.07
+2020-04-13 11:27:17,351:INFO: Average reward: 36.22 +/- 4.35
+2020-04-13 11:27:18,594:INFO: Average reward: 36.37 +/- 4.17
+2020-04-13 11:27:20,084:INFO: Average reward: 39.24 +/- 6.15
+2020-04-13 11:27:21,439:INFO: Average reward: 33.27 +/- 4.25
+2020-04-13 11:27:23,119:INFO: Average reward: 35.29 +/- 3.80
+2020-04-13 11:27:24,573:INFO: Average reward: 45.05 +/- 6.74
+2020-04-13 11:27:26,508:INFO: Average reward: 46.38 +/- 8.86
+2020-04-13 11:27:28,123:INFO: Average reward: 41.52 +/- 6.28
+2020-04-13 11:27:29,587:INFO: Average reward: 38.00 +/- 5.17
+2020-04-13 11:27:31,063:INFO: Average reward: 44.45 +/- 7.36
+2020-04-13 11:27:32,338:INFO: Average reward: 43.62 +/- 8.84
+2020-04-13 11:27:33,842:INFO: Average reward: 43.36 +/- 7.46
+2020-04-13 11:27:35,228:INFO: Average reward: 35.64 +/- 5.70
+2020-04-13 11:27:36,688:INFO: Average reward: 38.38 +/- 4.39
+2020-04-13 11:27:38,188:INFO: Average reward: 42.70 +/- 5.10
+2020-04-13 11:27:39,764:INFO: Average reward: 41.14 +/- 5.55
+2020-04-13 11:27:41,527:INFO: Average reward: 51.37 +/- 6.81
+2020-04-13 11:27:45,020:INFO: Average reward: 59.00 +/- 9.17
+2020-04-13 11:27:46,439:INFO: Average reward: 46.62 +/- 6.43
+2020-04-13 11:27:47,859:INFO: Average reward: 60.00 +/- 10.49
+2020-04-13 11:27:49,101:INFO: Average reward: 52.42 +/- 8.05
+2020-04-13 11:27:50,720:INFO: Average reward: 29.36 +/- 4.07
+2020-04-13 11:27:52,261:INFO: Average reward: 31.66 +/- 4.17
+2020-04-13 11:27:53,862:INFO: Average reward: 47.57 +/- 6.18
+2020-04-13 11:27:55,419:INFO: Average reward: 45.00 +/- 6.19
+2020-04-13 11:27:56,778:INFO: Average reward: 41.74 +/- 6.85
+2020-04-13 11:27:58,655:INFO: Average reward: 58.25 +/- 8.85
+2020-04-13 11:28:00,587:INFO: Average reward: 39.84 +/- 5.49
+2020-04-13 11:28:01,823:INFO: Average reward: 33.13 +/- 3.79
+2020-04-13 11:28:03,353:INFO: Average reward: 34.93 +/- 3.79
+2020-04-13 11:28:05,424:INFO: Average reward: 41.04 +/- 5.77
+2020-04-13 11:28:06,789:INFO: Average reward: 42.04 +/- 6.70
+2020-04-13 11:28:08,286:INFO: Average reward: 39.00 +/- 5.80
+2020-04-13 11:28:09,764:INFO: Average reward: 48.95 +/- 6.90
+2020-04-13 11:28:10,873:INFO: Average reward: 33.52 +/- 5.29
+2020-04-13 11:28:12,337:INFO: Average reward: 46.38 +/- 5.82
+2020-04-13 11:28:15,579:INFO: Average reward: 38.12 +/- 5.98
+2020-04-13 11:28:17,020:INFO: Average reward: 47.24 +/- 6.69
+2020-04-13 11:28:18,751:INFO: Average reward: 42.95 +/- 5.77
+2020-04-13 11:28:19,674:INFO: Average reward: 45.45 +/- 6.41
+2020-04-13 11:28:20,662:INFO: Average reward: 43.00 +/- 5.79
+2020-04-13 11:28:21,131:INFO: Average reward: 31.55 +/- 4.62
+2020-04-13 11:28:22,540:INFO: Average reward: 49.40 +/- 6.23
+2020-04-13 11:28:26,283:INFO: Average reward: 31.58 +/- 4.15
+2020-04-13 11:28:27,143:INFO: Average reward: 34.36 +/- 4.13
+2020-04-13 11:28:28,011:INFO: Average reward: 47.85 +/- 6.07
+2020-04-13 11:28:29,240:INFO: Average reward: 38.48 +/- 4.99
+2020-04-13 11:28:31,236:INFO: Average reward: 58.29 +/- 9.58
+2020-04-13 11:28:32,776:INFO: Average reward: 62.00 +/- 11.08
+2020-04-13 11:28:33,802:INFO: Average reward: 49.55 +/- 4.86
+2020-04-13 11:28:35,271:INFO: Average reward: 55.06 +/- 8.56
+2020-04-13 11:28:37,204:INFO: Average reward: 47.84 +/- 8.14
+2020-04-13 11:28:38,608:INFO: Average reward: 49.37 +/- 8.03
+2020-04-13 11:28:39,872:INFO: Average reward: 39.96 +/- 6.34
+2020-04-13 11:28:41,122:INFO: Average reward: 37.75 +/- 5.18
+2020-04-13 11:28:42,501:INFO: Average reward: 45.00 +/- 5.48
+2020-04-13 11:28:43,816:INFO: Average reward: 51.21 +/- 4.95
+2020-04-13 11:28:45,081:INFO: Average reward: 37.04 +/- 5.45
+2020-04-13 11:28:46,341:INFO: Average reward: 53.39 +/- 8.94
+2020-04-13 11:28:47,580:INFO: Average reward: 30.09 +/- 3.55
+2020-04-13 11:28:49,060:INFO: Average reward: 42.59 +/- 7.20
+2020-04-13 11:28:49,076:INFO: - Training done.
+2020-04-13 11:28:51,623:INFO: Average reward: 14.00 +/- 0.00
+2020-04-13 11:47:15,410:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 11:48:50,734:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 11:49:46,962:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 11:49:49,251:INFO: Average reward: 17.02 +/- 0.93
+2020-04-13 11:49:50,130:INFO: Average reward: 24.95 +/- 2.11
+2020-04-13 11:49:50,684:INFO: Average reward: 22.34 +/- 1.63
+2020-04-13 11:49:51,184:INFO: Average reward: 22.61 +/- 1.77
+2020-04-13 11:49:51,700:INFO: Average reward: 25.87 +/- 2.20
+2020-04-13 11:49:52,306:INFO: Average reward: 24.38 +/- 1.82
+2020-04-13 11:49:52,806:INFO: Average reward: 26.13 +/- 2.17
+2020-04-13 11:49:53,259:INFO: Average reward: 26.29 +/- 2.44
+2020-04-13 11:49:54,879:INFO: Average reward: 37.12 +/- 4.82
+2020-04-13 11:49:56,938:INFO: Average reward: 28.26 +/- 2.43
+2020-04-13 11:49:58,208:INFO: Average reward: 30.88 +/- 3.39
+2020-04-13 11:49:59,228:INFO: Average reward: 23.60 +/- 1.69
+2020-04-13 11:50:00,072:INFO: Average reward: 26.03 +/- 2.23
+2020-04-13 11:50:00,727:INFO: Average reward: 29.00 +/- 3.21
+2020-04-13 11:50:01,383:INFO: Average reward: 31.12 +/- 3.30
+2020-04-13 11:50:02,058:INFO: Average reward: 27.58 +/- 2.65
+2020-04-13 11:50:02,754:INFO: Average reward: 27.42 +/- 3.23
+2020-04-13 11:50:03,457:INFO: Average reward: 35.11 +/- 3.90
+2020-04-13 11:50:04,264:INFO: Average reward: 34.07 +/- 2.77
+2020-04-13 11:50:05,457:INFO: Average reward: 30.90 +/- 2.78
+2020-04-13 11:50:06,663:INFO: Average reward: 26.21 +/- 2.79
+2020-04-13 11:50:07,803:INFO: Average reward: 28.56 +/- 3.55
+2020-04-13 11:50:08,954:INFO: Average reward: 32.13 +/- 3.95
+2020-04-13 11:50:10,095:INFO: Average reward: 28.43 +/- 2.36
+2020-04-13 11:50:11,254:INFO: Average reward: 35.54 +/- 3.56
+2020-04-13 11:50:12,401:INFO: Average reward: 37.80 +/- 5.11
+2020-04-13 11:50:13,557:INFO: Average reward: 34.41 +/- 4.25
+2020-04-13 11:50:14,708:INFO: Average reward: 34.14 +/- 4.61
+2020-04-13 11:50:15,950:INFO: Average reward: 33.76 +/- 3.63
+2020-04-13 11:50:17,413:INFO: Average reward: 45.29 +/- 5.21
+2020-04-13 11:50:19,018:INFO: Average reward: 32.00 +/- 3.19
+2020-04-13 11:50:20,377:INFO: Average reward: 31.63 +/- 3.98
+2020-04-13 11:50:21,655:INFO: Average reward: 34.10 +/- 4.87
+2020-04-13 11:50:23,134:INFO: Average reward: 35.07 +/- 4.08
+2020-04-13 11:50:24,385:INFO: Average reward: 36.56 +/- 4.63
+2020-04-13 11:50:25,629:INFO: Average reward: 36.37 +/- 6.55
+2020-04-13 11:50:26,905:INFO: Average reward: 47.10 +/- 6.21
+2020-04-13 11:50:28,932:INFO: Average reward: 39.04 +/- 5.60
+2020-04-13 11:50:30,858:INFO: Average reward: 36.85 +/- 5.85
+2020-04-13 11:50:32,314:INFO: Average reward: 43.43 +/- 6.79
+2020-04-13 11:50:33,643:INFO: Average reward: 46.95 +/- 4.78
+2020-04-13 11:50:34,331:INFO: Average reward: 37.73 +/- 5.08
+2020-04-13 11:50:34,987:INFO: Average reward: 36.44 +/- 5.03
+2020-04-13 11:50:35,681:INFO: Average reward: 34.45 +/- 4.46
+2020-04-13 11:50:36,334:INFO: Average reward: 44.36 +/- 6.62
+2020-04-13 11:50:37,074:INFO: Average reward: 43.43 +/- 5.91
+2020-04-13 11:50:37,907:INFO: Average reward: 41.65 +/- 6.23
+2020-04-13 11:50:38,807:INFO: Average reward: 48.65 +/- 8.13
+2020-04-13 11:50:39,458:INFO: Average reward: 52.00 +/- 8.51
+2020-04-13 11:50:40,186:INFO: Average reward: 46.05 +/- 8.14
+2020-04-13 11:50:41,053:INFO: Average reward: 50.16 +/- 7.88
+2020-04-13 11:50:42,953:INFO: Average reward: 38.00 +/- 5.34
+2020-04-13 11:50:44,232:INFO: Average reward: 38.35 +/- 5.01
+2020-04-13 11:50:45,576:INFO: Average reward: 42.91 +/- 6.44
+2020-04-13 11:50:47,227:INFO: Average reward: 52.47 +/- 7.61
+2020-04-13 11:50:48,492:INFO: Average reward: 39.52 +/- 5.63
+2020-04-13 11:50:49,679:INFO: Average reward: 55.76 +/- 6.36
+2020-04-13 11:50:50,904:INFO: Average reward: 51.16 +/- 7.72
+2020-04-13 11:50:52,092:INFO: Average reward: 64.40 +/- 10.47
+2020-04-13 11:50:53,439:INFO: Average reward: 55.22 +/- 9.00
+2020-04-13 11:50:55,212:INFO: Average reward: 33.21 +/- 4.88
+2020-04-13 11:50:56,774:INFO: Average reward: 41.91 +/- 6.49
+2020-04-13 11:50:57,884:INFO: Average reward: 44.95 +/- 4.94
+2020-04-13 11:50:59,049:INFO: Average reward: 47.38 +/- 5.71
+2020-04-13 11:51:00,227:INFO: Average reward: 38.60 +/- 4.70
+2020-04-13 11:51:01,403:INFO: Average reward: 46.75 +/- 7.40
+2020-04-13 11:51:02,560:INFO: Average reward: 49.45 +/- 9.74
+2020-04-13 11:51:03,794:INFO: Average reward: 31.65 +/- 3.90
+2020-04-13 11:51:05,138:INFO: Average reward: 34.79 +/- 3.93
+2020-04-13 11:51:06,708:INFO: Average reward: 47.30 +/- 6.35
+2020-04-13 11:51:08,130:INFO: Average reward: 50.68 +/- 6.93
+2020-04-13 11:51:09,355:INFO: Average reward: 41.29 +/- 6.25
+2020-04-13 11:51:10,568:INFO: Average reward: 47.75 +/- 7.94
+2020-04-13 11:51:11,746:INFO: Average reward: 33.52 +/- 4.99
+2020-04-13 11:51:12,881:INFO: Average reward: 41.62 +/- 6.02
+2020-04-13 11:51:14,068:INFO: Average reward: 41.59 +/- 7.12
+2020-04-13 11:51:15,973:INFO: Average reward: 45.18 +/- 7.03
+2020-04-13 11:51:17,812:INFO: Average reward: 46.90 +/- 5.68
+2020-04-13 11:51:19,026:INFO: Average reward: 43.43 +/- 6.75
+2020-04-13 11:51:19,799:INFO: Average reward: 38.62 +/- 4.97
+2020-04-13 11:51:20,619:INFO: Average reward: 30.34 +/- 3.70
+2020-04-13 11:51:21,179:INFO: Average reward: 51.00 +/- 6.61
+2020-04-13 11:51:21,710:INFO: Average reward: 33.14 +/- 6.21
+2020-04-13 11:51:22,544:INFO: Average reward: 41.35 +/- 5.27
+2020-04-13 11:51:23,028:INFO: Average reward: 49.40 +/- 7.80
+2020-04-13 11:51:23,502:INFO: Average reward: 33.17 +/- 4.58
+2020-04-13 11:51:23,986:INFO: Average reward: 52.11 +/- 9.47
+2020-04-13 11:51:24,644:INFO: Average reward: 62.00 +/- 10.38
+2020-04-13 11:51:25,103:INFO: Average reward: 46.90 +/- 4.64
+2020-04-13 11:51:26,051:INFO: Average reward: 65.67 +/- 8.71
+2020-04-13 11:51:27,405:INFO: Average reward: 49.89 +/- 6.84
+2020-04-13 11:51:28,930:INFO: Average reward: 39.62 +/- 5.10
+2020-04-13 11:51:30,733:INFO: Average reward: 35.63 +/- 4.76
+2020-04-13 11:51:32,623:INFO: Average reward: 36.27 +/- 3.82
+2020-04-13 11:51:34,486:INFO: Average reward: 47.15 +/- 5.42
+2020-04-13 11:51:36,206:INFO: Average reward: 43.91 +/- 5.21
+2020-04-13 11:51:37,687:INFO: Average reward: 39.88 +/- 6.66
+2020-04-13 11:51:39,177:INFO: Average reward: 54.06 +/- 6.17
+2020-04-13 11:51:40,514:INFO: Average reward: 34.14 +/- 3.92
+2020-04-13 11:51:41,917:INFO: Average reward: 53.12 +/- 10.31
+2020-04-13 11:51:41,917:INFO: - Training done.
+2020-04-13 11:51:44,197:INFO: Average reward: 14.00 +/- 0.00
+2020-04-13 11:59:59,569:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 12:00:01,105:INFO: Average reward: 17.02 +/- 0.93
+2020-04-13 12:00:02,026:INFO: Average reward: 24.95 +/- 2.11
+2020-04-13 12:00:03,298:INFO: Average reward: 22.34 +/- 1.63
+2020-04-13 12:00:03,861:INFO: Average reward: 22.61 +/- 1.77
+2020-04-13 12:00:04,431:INFO: Average reward: 25.87 +/- 2.20
+2020-04-13 12:00:04,931:INFO: Average reward: 24.38 +/- 1.82
+2020-04-13 12:00:05,509:INFO: Average reward: 26.13 +/- 2.17
+2020-04-13 12:00:05,916:INFO: Average reward: 26.29 +/- 2.44
+2020-04-13 12:00:06,334:INFO: Average reward: 37.12 +/- 4.82
+2020-04-13 12:00:06,736:INFO: Average reward: 28.26 +/- 2.43
+2020-04-13 12:00:07,222:INFO: Average reward: 30.88 +/- 3.39
+2020-04-13 12:00:07,628:INFO: Average reward: 23.60 +/- 1.69
+2020-04-13 12:00:08,183:INFO: Average reward: 26.03 +/- 2.23
+2020-04-13 12:00:08,761:INFO: Average reward: 29.00 +/- 3.21
+2020-04-13 12:00:09,261:INFO: Average reward: 31.12 +/- 3.30
+2020-04-13 12:00:09,870:INFO: Average reward: 27.58 +/- 2.65
+2020-04-13 12:00:10,363:INFO: Average reward: 27.42 +/- 3.23
+2020-04-13 12:00:10,957:INFO: Average reward: 35.11 +/- 3.90
+2020-04-13 12:00:11,514:INFO: Average reward: 34.07 +/- 2.77
+2020-04-13 12:00:12,180:INFO: Average reward: 30.90 +/- 2.78
+2020-04-13 12:00:12,851:INFO: Average reward: 26.21 +/- 2.79
+2020-04-13 12:00:13,445:INFO: Average reward: 28.56 +/- 3.55
+2020-04-13 12:00:13,930:INFO: Average reward: 32.13 +/- 3.95
+2020-04-13 12:00:14,313:INFO: Average reward: 28.43 +/- 2.36
+2020-04-13 12:00:14,711:INFO: Average reward: 35.54 +/- 3.56
+2020-04-13 12:00:15,089:INFO: Average reward: 37.80 +/- 5.11
+2020-04-13 12:00:16,000:INFO: Average reward: 34.41 +/- 4.25
+2020-04-13 12:00:17,533:INFO: Average reward: 34.14 +/- 4.61
+2020-04-13 12:00:18,714:INFO: Average reward: 33.76 +/- 3.63
+2020-04-13 12:00:20,031:INFO: Average reward: 45.29 +/- 5.21
+2020-04-13 12:00:21,334:INFO: Average reward: 32.00 +/- 3.19
+2020-04-13 12:00:22,589:INFO: Average reward: 31.63 +/- 3.98
+2020-04-13 12:00:23,652:INFO: Average reward: 34.10 +/- 4.87
+2020-04-13 12:00:24,897:INFO: Average reward: 35.07 +/- 4.08
+2020-04-13 12:00:26,141:INFO: Average reward: 36.56 +/- 4.63
+2020-04-13 12:00:27,553:INFO: Average reward: 36.37 +/- 6.55
+2020-04-13 12:00:28,719:INFO: Average reward: 47.10 +/- 6.21
+2020-04-13 12:00:30,309:INFO: Average reward: 39.04 +/- 5.60
+2020-04-13 12:00:31,902:INFO: Average reward: 36.85 +/- 5.85
+2020-04-13 12:00:33,256:INFO: Average reward: 43.43 +/- 6.79
+2020-04-13 12:00:35,172:INFO: Average reward: 46.95 +/- 4.78
+2020-04-13 12:00:37,106:INFO: Average reward: 37.73 +/- 5.08
+2020-04-13 12:00:38,014:INFO: Average reward: 36.44 +/- 5.03
+2020-04-13 12:00:38,801:INFO: Average reward: 34.45 +/- 4.46
+2020-04-13 12:00:39,489:INFO: Average reward: 44.36 +/- 6.62
+2020-04-13 12:00:40,086:INFO: Average reward: 43.43 +/- 5.91
+2020-04-13 12:00:40,653:INFO: Average reward: 41.65 +/- 6.23
+2020-04-13 12:00:41,215:INFO: Average reward: 48.65 +/- 8.13
+2020-04-13 12:00:41,719:INFO: Average reward: 52.00 +/- 8.51
+2020-04-13 12:00:42,227:INFO: Average reward: 46.05 +/- 8.14
+2020-04-13 12:00:42,727:INFO: Average reward: 50.16 +/- 7.88
+2020-04-13 12:00:43,133:INFO: Average reward: 38.00 +/- 5.34
+2020-04-13 12:00:44,106:INFO: Average reward: 38.35 +/- 5.01
+2020-04-13 12:00:45,517:INFO: Average reward: 42.91 +/- 6.44
+2020-04-13 12:00:46,931:INFO: Average reward: 52.47 +/- 7.61
+2020-04-13 12:00:48,139:INFO: Average reward: 39.52 +/- 5.63
+2020-04-13 12:00:49,237:INFO: Average reward: 55.76 +/- 6.36
+2020-04-13 12:00:50,341:INFO: Average reward: 51.16 +/- 7.72
+2020-04-13 12:00:51,481:INFO: Average reward: 64.40 +/- 10.47
+2020-04-13 12:00:52,610:INFO: Average reward: 55.22 +/- 9.00
+2020-04-13 12:00:53,920:INFO: Average reward: 33.21 +/- 4.88
+2020-04-13 12:00:55,234:INFO: Average reward: 41.91 +/- 6.49
+2020-04-13 12:00:56,337:INFO: Average reward: 44.95 +/- 4.94
+2020-04-13 12:00:57,471:INFO: Average reward: 47.38 +/- 5.71
+2020-04-13 12:00:58,590:INFO: Average reward: 38.60 +/- 4.70
+2020-04-13 12:00:59,684:INFO: Average reward: 46.75 +/- 7.40
+2020-04-13 12:01:00,803:INFO: Average reward: 49.45 +/- 9.74
+2020-04-13 12:01:01,920:INFO: Average reward: 31.65 +/- 3.90
+2020-04-13 12:01:03,037:INFO: Average reward: 34.79 +/- 3.93
+2020-04-13 12:01:04,989:INFO: Average reward: 47.30 +/- 6.35
+2020-04-13 12:01:08,063:INFO: Average reward: 50.68 +/- 6.93
+2020-04-13 12:01:08,860:INFO: Average reward: 41.29 +/- 6.25
+2020-04-13 12:01:09,469:INFO: Average reward: 47.75 +/- 7.94
+2020-04-13 12:01:10,063:INFO: Average reward: 33.52 +/- 4.99
+2020-04-13 12:01:10,586:INFO: Average reward: 41.62 +/- 6.02
+2020-04-13 12:01:11,133:INFO: Average reward: 41.59 +/- 7.12
+2020-04-13 12:01:11,675:INFO: Average reward: 45.18 +/- 7.03
+2020-04-13 12:01:12,206:INFO: Average reward: 46.90 +/- 5.68
+2020-04-13 12:01:12,936:INFO: Average reward: 43.43 +/- 6.75
+2020-04-13 12:01:13,429:INFO: Average reward: 38.62 +/- 4.97
+2020-04-13 12:01:13,984:INFO: Average reward: 30.34 +/- 3.70
+2020-04-13 12:01:15,228:INFO: Average reward: 51.00 +/- 6.61
+2020-04-13 12:01:17,121:INFO: Average reward: 33.14 +/- 6.21
+2020-04-13 12:01:18,529:INFO: Average reward: 41.35 +/- 5.27
+2020-04-13 12:01:19,853:INFO: Average reward: 49.40 +/- 7.80
+2020-04-13 12:01:21,009:INFO: Average reward: 33.17 +/- 4.58
+2020-04-13 12:01:22,110:INFO: Average reward: 52.11 +/- 9.47
+2020-04-13 12:01:23,094:INFO: Average reward: 62.00 +/- 10.38
+2020-04-13 12:01:24,154:INFO: Average reward: 46.90 +/- 4.64
+2020-04-13 12:01:25,251:INFO: Average reward: 65.67 +/- 8.71
+2020-04-13 12:01:26,728:INFO: Average reward: 49.89 +/- 6.84
+2020-04-13 12:01:28,009:INFO: Average reward: 39.62 +/- 5.10
+2020-04-13 12:01:29,206:INFO: Average reward: 35.63 +/- 4.76
+2020-04-13 12:01:31,085:INFO: Average reward: 36.27 +/- 3.82
+2020-04-13 12:01:32,725:INFO: Average reward: 47.15 +/- 5.42
+2020-04-13 12:01:33,569:INFO: Average reward: 43.91 +/- 5.21
+2020-04-13 12:01:34,704:INFO: Average reward: 39.88 +/- 6.66
+2020-04-13 12:01:36,358:INFO: Average reward: 54.06 +/- 6.17
+2020-04-13 12:01:37,954:INFO: Average reward: 34.14 +/- 3.92
+2020-04-13 12:01:40,905:INFO: Average reward: 53.12 +/- 10.31
+2020-04-13 12:01:40,905:INFO: - Training done.
+2020-04-13 12:01:43,424:INFO: Average reward: 14.00 +/- 0.00
+2020-04-13 12:04:23,618:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 12:04:25,099:INFO: Average reward: 17.02 +/- 0.93
+2020-04-13 12:04:25,911:INFO: Average reward: 24.95 +/- 2.11
+2020-04-13 12:04:26,739:INFO: Average reward: 22.34 +/- 1.63
+2020-04-13 12:04:27,414:INFO: Average reward: 22.61 +/- 1.77
+2020-04-13 12:04:28,102:INFO: Average reward: 25.87 +/- 2.20
+2020-04-13 12:04:28,836:INFO: Average reward: 24.38 +/- 1.82
+2020-04-13 12:04:29,422:INFO: Average reward: 26.13 +/- 2.17
+2020-04-13 12:04:30,016:INFO: Average reward: 26.29 +/- 2.44
+2020-04-13 12:04:30,657:INFO: Average reward: 37.12 +/- 4.82
+2020-04-13 12:04:31,290:INFO: Average reward: 28.26 +/- 2.43
+2020-04-13 12:04:31,883:INFO: Average reward: 30.88 +/- 3.39
+2020-04-13 12:04:33,224:INFO: Average reward: 23.60 +/- 1.69
+2020-04-13 12:04:35,074:INFO: Average reward: 26.03 +/- 2.23
+2020-04-13 12:04:36,825:INFO: Average reward: 29.00 +/- 3.21
+2020-04-13 12:04:38,657:INFO: Average reward: 31.12 +/- 3.30
+2020-04-13 12:04:40,072:INFO: Average reward: 27.58 +/- 2.65
+2020-04-13 12:04:41,263:INFO: Average reward: 27.42 +/- 3.23
+2020-04-13 12:04:42,479:INFO: Average reward: 35.11 +/- 3.90
+2020-04-13 12:04:43,775:INFO: Average reward: 34.07 +/- 2.77
+2020-04-13 12:04:46,991:INFO: Average reward: 30.90 +/- 2.78
+2020-04-13 12:04:48,107:INFO: Average reward: 26.21 +/- 2.79
+2020-04-13 12:04:48,857:INFO: Average reward: 28.56 +/- 3.55
+2020-04-13 12:04:49,616:INFO: Average reward: 32.13 +/- 3.95
+2020-04-13 12:04:50,350:INFO: Average reward: 28.43 +/- 2.36
+2020-04-13 12:04:51,280:INFO: Average reward: 35.54 +/- 3.56
+2020-04-13 12:04:52,156:INFO: Average reward: 37.80 +/- 5.11
+2020-04-13 12:04:52,812:INFO: Average reward: 34.41 +/- 4.25
+2020-04-13 12:04:53,456:INFO: Average reward: 34.14 +/- 4.61
+2020-04-13 12:04:54,144:INFO: Average reward: 33.76 +/- 3.63
+2020-04-13 12:04:54,800:INFO: Average reward: 45.29 +/- 5.21
+2020-04-13 12:04:55,324:INFO: Average reward: 32.00 +/- 3.19
+2020-04-13 12:04:56,652:INFO: Average reward: 31.63 +/- 3.98
+2020-04-13 12:04:58,675:INFO: Average reward: 34.10 +/- 4.87
+2020-04-13 12:04:59,935:INFO: Average reward: 35.07 +/- 4.08
+2020-04-13 12:05:01,374:INFO: Average reward: 36.56 +/- 4.63
+2020-04-13 12:05:03,242:INFO: Average reward: 36.37 +/- 6.55
+2020-04-13 12:05:05,824:INFO: Average reward: 47.10 +/- 6.21
+2020-04-13 12:05:06,871:INFO: Average reward: 39.04 +/- 5.60
+2020-04-13 12:05:07,803:INFO: Average reward: 36.85 +/- 5.85
+2020-04-13 12:05:09,453:INFO: Average reward: 43.43 +/- 6.79
+2020-04-13 12:05:11,395:INFO: Average reward: 46.95 +/- 4.78
+2020-04-13 12:05:30,278:INFO: Average reward: 12.00 +/- 0.00
+2020-04-13 12:05:33,857:INFO: Average reward: 17.02 +/- 0.93
+2020-04-13 12:05:35,182:INFO: Average reward: 24.95 +/- 2.11
+2020-04-13 12:05:36,228:INFO: Average reward: 22.34 +/- 1.63
+2020-04-13 12:05:37,034:INFO: Average reward: 22.61 +/- 1.77
+2020-04-13 12:05:37,888:INFO: Average reward: 25.87 +/- 2.20
+2020-04-13 12:05:38,560:INFO: Average reward: 24.38 +/- 1.82
+2020-04-13 12:05:39,288:INFO: Average reward: 26.13 +/- 2.17
+2020-04-13 12:05:39,866:INFO: Average reward: 26.29 +/- 2.44
+2020-04-13 12:05:41,162:INFO: Average reward: 37.12 +/- 4.82
+2020-04-13 12:05:43,490:INFO: Average reward: 28.26 +/- 2.43
+2020-04-13 12:05:45,350:INFO: Average reward: 30.88 +/- 3.39
+2020-04-13 12:05:46,461:INFO: Average reward: 25.97 +/- 2.29
+2020-04-13 12:05:47,172:INFO: Average reward: 29.21 +/- 3.32
+2020-04-13 12:05:47,841:INFO: Average reward: 26.37 +/- 2.04
+2020-04-13 12:05:48,544:INFO: Average reward: 27.61 +/- 2.79
+2020-04-13 12:05:49,220:INFO: Average reward: 30.81 +/- 3.60
+2020-04-13 12:05:49,927:INFO: Average reward: 26.00 +/- 2.64
+2020-04-13 12:05:50,615:INFO: Average reward: 37.65 +/- 3.42
+2020-04-13 12:05:51,228:INFO: Average reward: 36.44 +/- 4.94
+2020-04-13 12:05:52,414:INFO: Average reward: 30.06 +/- 3.44
+2020-04-13 12:05:53,611:INFO: Average reward: 31.09 +/- 4.76
+2020-04-13 12:05:54,799:INFO: Average reward: 31.29 +/- 3.90
+2020-04-13 12:05:55,996:INFO: Average reward: 31.06 +/- 3.80
+2020-04-13 12:05:57,193:INFO: Average reward: 26.86 +/- 2.52
+2020-04-13 12:05:58,644:INFO: Average reward: 31.10 +/- 3.24
+2020-04-13 12:06:00,211:INFO: Average reward: 38.96 +/- 5.40
+2020-04-13 12:06:01,896:INFO: Average reward: 42.22 +/- 6.33
+2020-04-13 12:06:03,094:INFO: Average reward: 33.00 +/- 4.19
+2020-04-13 12:06:04,889:INFO: Average reward: 41.00 +/- 5.28
+2020-04-13 12:06:06,596:INFO: Average reward: 40.00 +/- 4.74
+2020-04-13 12:06:08,289:INFO: Average reward: 35.21 +/- 3.82
+2020-04-13 12:06:09,589:INFO: Average reward: 34.18 +/- 6.42
+2020-04-13 12:06:11,534:INFO: Average reward: 47.52 +/- 6.21
+2020-04-13 12:06:12,752:INFO: Average reward: 28.82 +/- 3.93
+2020-04-13 12:06:14,034:INFO: Average reward: 33.59 +/- 2.99
+2020-04-13 12:06:15,840:INFO: Average reward: 30.78 +/- 3.31
+2020-04-13 12:06:17,416:INFO: Average reward: 41.08 +/- 5.10
+2020-04-13 12:06:18,635:INFO: Average reward: 42.35 +/- 5.27
+2020-04-13 12:06:19,911:INFO: Average reward: 34.41 +/- 3.84
+2020-04-13 12:06:21,114:INFO: Average reward: 34.89 +/- 5.14
+2020-04-13 12:06:22,593:INFO: Average reward: 45.05 +/- 4.97
+2020-04-13 12:06:24,605:INFO: Average reward: 36.26 +/- 4.11
+2020-04-13 12:06:26,248:INFO: Average reward: 34.38 +/- 4.16
+2020-04-13 12:06:28,536:INFO: Average reward: 35.39 +/- 3.60
+2020-04-13 12:06:29,840:INFO: Average reward: 47.85 +/- 8.89
+2020-04-13 12:06:30,787:INFO: Average reward: 39.92 +/- 5.70
+2020-04-13 12:06:31,467:INFO: Average reward: 51.95 +/- 7.14
+2020-04-13 12:06:32,255:INFO: Average reward: 47.00 +/- 7.95
+2020-04-13 12:06:32,796:INFO: Average reward: 45.68 +/- 6.66
+2020-04-13 12:06:33,664:INFO: Average reward: 43.90 +/- 7.74
+2020-04-13 12:06:34,407:INFO: Average reward: 38.92 +/- 5.34
+2020-04-13 12:06:34,850:INFO: Average reward: 42.61 +/- 5.47
+2020-04-13 12:06:36,307:INFO: Average reward: 39.88 +/- 4.60
+2020-04-13 12:06:38,390:INFO: Average reward: 44.71 +/- 5.94
+2020-04-13 12:06:40,547:INFO: Average reward: 45.23 +/- 6.13
+2020-04-13 12:06:42,093:INFO: Average reward: 58.00 +/- 6.87
+2020-04-13 12:06:43,636:INFO: Average reward: 47.63 +/- 6.71
+2020-04-13 12:06:45,244:INFO: Average reward: 44.77 +/- 6.28
+2020-04-13 12:06:46,927:INFO: Average reward: 70.29 +/- 11.07
+2020-04-13 12:06:48,580:INFO: Average reward: 49.21 +/- 7.84
+2020-04-13 12:06:49,778:INFO: Average reward: 36.93 +/- 5.10
+2020-04-13 12:06:50,981:INFO: Average reward: 45.70 +/- 4.88
+2020-04-13 12:06:52,147:INFO: Average reward: 43.13 +/- 4.75
+2020-04-13 12:06:53,312:INFO: Average reward: 46.71 +/- 5.62
+2020-04-13 12:06:54,493:INFO: Average reward: 47.90 +/- 8.79
+2020-04-13 12:06:55,909:INFO: Average reward: 37.60 +/- 5.51
+2020-04-13 12:06:57,081:INFO: Average reward: 42.91 +/- 7.25
+2020-04-13 12:06:58,321:INFO: Average reward: 32.83 +/- 3.51
+2020-04-13 12:06:59,497:INFO: Average reward: 34.75 +/- 3.55
+2020-04-13 12:07:00,690:INFO: Average reward: 44.86 +/- 8.03
+2020-04-13 12:07:01,826:INFO: Average reward: 38.46 +/- 5.32
+2020-04-13 12:07:03,008:INFO: Average reward: 35.18 +/- 4.47
+2020-04-13 12:07:04,175:INFO: Average reward: 41.00 +/- 5.64
+2020-04-13 12:07:05,331:INFO: Average reward: 30.24 +/- 4.08
+2020-04-13 12:07:06,576:INFO: Average reward: 49.70 +/- 5.38
+2020-04-13 12:07:07,933:INFO: Average reward: 36.48 +/- 4.81
+2020-04-13 12:07:09,089:INFO: Average reward: 38.12 +/- 5.09
+2020-04-13 12:07:10,265:INFO: Average reward: 37.38 +/- 6.20
+2020-04-13 12:07:11,532:INFO: Average reward: 47.62 +/- 7.80
+2020-04-13 12:07:12,848:INFO: Average reward: 36.38 +/- 4.47
+2020-04-13 12:07:14,070:INFO: Average reward: 33.52 +/- 4.71
+2020-04-13 12:07:15,242:INFO: Average reward: 49.58 +/- 7.19
+2020-04-13 12:07:16,392:INFO: Average reward: 42.50 +/- 6.81
+2020-04-13 12:07:17,542:INFO: Average reward: 35.61 +/- 4.15
+2020-04-13 12:07:18,693:INFO: Average reward: 35.32 +/- 4.32
+2020-04-13 12:07:19,859:INFO: Average reward: 32.23 +/- 3.12
+2020-04-13 12:07:21,084:INFO: Average reward: 49.40 +/- 8.98
+2020-04-13 12:07:22,597:INFO: Average reward: 52.00 +/- 7.24
+2020-04-13 12:07:23,898:INFO: Average reward: 44.59 +/- 6.36
+2020-04-13 12:07:25,094:INFO: Average reward: 52.00 +/- 6.62
+2020-04-13 12:07:26,261:INFO: Average reward: 45.45 +/- 7.03
+2020-04-13 12:07:27,473:INFO: Average reward: 54.94 +/- 10.30
+2020-04-13 12:07:28,988:INFO: Average reward: 32.86 +/- 5.18
+2020-04-13 12:07:30,762:INFO: Average reward: 39.96 +/- 4.88
+2020-04-13 12:07:32,866:INFO: Average reward: 44.43 +/- 6.37
+2020-04-13 12:07:33,821:INFO: Average reward: 46.19 +/- 5.26
+2020-04-13 12:07:34,691:INFO: Average reward: 36.07 +/- 5.17
+2020-04-13 12:07:35,437:INFO: Average reward: 59.75 +/- 10.30
+2020-04-13 12:07:36,180:INFO: Average reward: 26.86 +/- 2.66
+2020-04-13 12:07:37,072:INFO: Average reward: 45.23 +/- 6.16
+2020-04-13 12:07:37,072:INFO: - Training done.
+2020-04-13 12:07:38,941:INFO: Average reward: 14.00 +/- 0.00
+2020-04-13 10:10:01,055:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:77: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-04-13 10:10:01,268:WARNING: From /content/drive/My Drive/RL/ex3/code/network_utils.py:36: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-04-13 10:10:01,268:WARNING: From /content/drive/My Drive/RL/ex3/code/network_utils.py:39: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.Dense instead.
+2020-04-13 10:10:01,270:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/layers/core.py:187: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-04-13 10:10:01,306:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:141: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2020-04-13 10:10:01,312:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:187: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-04-13 10:10:01,438:WARNING: From /content/drive/My Drive/RL/ex3/code/baseline_network.py:55: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2020-04-13 10:10:01,485:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/losses/losses_impl.py:121: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-04-13 10:10:01,639:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:227: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-04-13 10:10:01,648:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:252: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-04-13 10:10:01,653:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:258: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-04-13 10:10:01,655:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:259: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2020-04-13 10:10:01,714:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:232: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2020-04-13 10:10:37,592:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:77: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-04-13 10:10:37,596:WARNING: From /content/drive/My Drive/RL/ex3/code/network_utils.py:36: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-04-13 10:10:37,597:WARNING: From /content/drive/My Drive/RL/ex3/code/network_utils.py:39: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.Dense instead.
+2020-04-13 10:10:37,599:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/layers/core.py:187: Layer.apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+2020-04-13 10:10:37,638:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:141: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2020-04-13 10:10:37,644:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:187: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2020-04-13 10:10:37,767:WARNING: From /content/drive/My Drive/RL/ex3/code/baseline_network.py:55: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2020-04-13 10:10:37,814:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow_core/python/ops/losses/losses_impl.py:121: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-04-13 10:10:37,970:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:227: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-04-13 10:10:37,978:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:252: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-04-13 10:10:37,983:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:258: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-04-13 10:10:37,984:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:259: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2020-04-13 10:10:38,037:WARNING: From /content/drive/My Drive/RL/ex3/code/policy_network.py:232: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
